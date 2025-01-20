@@ -32,6 +32,7 @@ YouTube Video https://www.youtube.com/watch?v=KpQxz6biprs
 
 
 
+
 ## Need : 
 
 Arduino pro mini board
@@ -68,6 +69,10 @@ How New GLDAb by Arduino works
   2. Throttle max Low
   3. Red LED on and Motor Run on Setup speed
   4. After 1 second, Motor stops 
+     
+   The PreGlide time can be changed by changing the i value.
+    PreGlide time is approximately 1 second for "i<140" and "i=140".
+      
   5. When Magnet passes magnet sensor,
                                  Red LED off and Motor stops
  When Magnet sensor contact magnet, 
