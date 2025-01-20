@@ -2,7 +2,8 @@
 
 ![230711-2 Pterasaur3small](/Image/230711-2%20Pterasaur3small%20.jpg)
 
-![250120 New GLDAB by Arduino pro mini 4g](/Image/250120 New GLDAB by Arduino pro mini 4g)
+![250120 New GLDAB by Arduino pro mini 4g](/Image/250120%20New%20GLDAB%20by%20Arduino%20pro%20mini%204g.jpg)
+
 
 New GLDAB is a device that detects the position of the wing with a magnetic sensor and stops the wing movement at the optimal position for gliding.
 
