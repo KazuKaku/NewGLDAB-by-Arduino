@@ -49,6 +49,7 @@ Wiring
 ## Manual of New GLDAB using Arduino Pro mini
 
 Set the Throttle (3ch) to under 1000 msec and over 2000 msec.
+
 When using a new ESC, please set the ESC's operating range with New GLDAB removed before doing the following.
 
 Setting of Pre Glide Motor Speed:
