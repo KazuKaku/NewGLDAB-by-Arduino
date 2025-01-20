@@ -71,6 +71,7 @@ How New GLDAb by Arduino works
   4. After 1 second, Motor stops 
      
    The PreGlide time can be changed by changing the i value.
+   
     PreGlide time is approximately 1 second for "i<140" and "i=140".
       
   5. When Magnet passes magnet sensor,
