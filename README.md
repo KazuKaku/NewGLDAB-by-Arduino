@@ -69,9 +69,13 @@ How New GLDAb by Arduino works
   2. Throttle max Low
   3. Red LED on and Motor Run on Setup speed
   4. After 1 second, Motor stops 
+
+     The PreGlide time (the time the motor continues to run
      
+      after the throttle stick is at its lowest position) is about 1 second.
+
    The PreGlide time can be changed by changing the i value.
-   
+
     PreGlide time is approximately 1 second for "i<140" and "i=140".
       
   5. When Magnet passes magnet sensor,
