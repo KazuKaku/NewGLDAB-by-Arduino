@@ -74,9 +74,9 @@ How New GLDAb by Arduino works
      
       after the throttle stick is at its lowest position) is about 1 second.
 
-   The PreGlide time can be changed by changing the i value.
+    The PreGlide time can be changed by changing the i value.
 
-    PreGlide time is approximately 1 second for Line89 "i<140" and Line104 "i=140".
+    PreGlide time is approximately 1 second for Line88 "i<140" and Line103 "i=140".
     
     For longer PreGlide time increse i value ex. "i<200" and "i = 200".
       
