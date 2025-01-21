@@ -3,7 +3,6 @@
 #include <Servo.h>
 #include <EEPROM.h>
 
-//#define DOPRINTS // if you print on PC screen Data, delete”//” 
 
 volatile int pwm_value = 0;
 volatile int prev_time = 0;
@@ -103,7 +102,11 @@ Serial.println(val);// By repeating with these two lines 140 times,
 
 if ( val == 0){ i = 140;}// When a magnet is detected, Val=0 and the motor stops
 
-
+//The PreGlide time (the time the motor continues to run
+//after the throttle stick is at its lowest position) is about 1 second.
+//The PreGlide time can be changed by changing the i value.
+//PreGlide time is approximately 1 second for Line88 "i<140" and Line103 "i=140".
+//For longer PreGlide time increse i value ex. "i<200" and "i = 200".
 
 }
 digitalWrite(LED1, LOW); 
