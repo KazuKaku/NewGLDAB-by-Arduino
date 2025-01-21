@@ -86,7 +86,7 @@ if (( pwm_value < 950 ) && (flag2 == 0 )){
 digitalWrite(LED1, HIGH);
 pgms = EEPROM.read(a);
 PreGMS =900 + pgms*3;    
-for(int i = 0 ; i <140 ; i++) {  //100=?second
+for(int i = 0 ; i <140 ; i++) {  //i=140 is about 1second
 myservo1.writeMicroseconds(PreGMS);//The motor runs at PreGMS speed for about 1 second.
 //Serial.print("PreGMS--");
 //Serial.println(PreGMS);
@@ -100,7 +100,7 @@ Serial.println(val);// By repeating with these two lines 140 times,
                 // When a magnet is detected, Val=1 and the motor stops.
 
 
-//if ( val == 1){ i = 140;}
+
 if ( val == 0){ i = 140;}// When a magnet is detected, Val=0 and the motor stops
 
 
