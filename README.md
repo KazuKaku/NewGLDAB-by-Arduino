@@ -45,7 +45,7 @@ Panasonic Hall Sensor IC DN6852-A
 
 Small neodymium magnet
 
-#### Set magnet so that the south pole faces the side with the Panasonic Hall Sensor IC part lettering.
+#### ---------Set magnet so that the south pole faces the side with the Panasonic Hall Sensor IC part lettering.
 
 
 
