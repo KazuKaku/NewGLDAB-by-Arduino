@@ -46,7 +46,7 @@ Panasonic Hall Sensor IC DN6852-A
   Change "val == 1" to "val == 0" in Line 103.
 
 
-Wiring
+## Wiring
 
 ![240504 New GLDAB by Arduino 4.7KR wiring](/Image/240504%20New%20GLDAB%20by%20Arduino%204.7KR%20wiring.jpg)
 
