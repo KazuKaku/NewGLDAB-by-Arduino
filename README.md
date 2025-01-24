@@ -17,6 +17,14 @@ In order to make the Ornithopter glide, I created a device (New GLDAB) that uses
 
 
 
+## How New GLDAB by Arduino Pro mini works
+
+YouTube Video https://www.youtube.com/watch?v=KpQxz6biprs
+
+
+
+###  reference.
+
 How New GLDAB Works
 
 http://kakutaclinic.life.coocan.jp/GLDAB.htm
@@ -24,11 +32,6 @@ http://kakutaclinic.life.coocan.jp/GLDAB.htm
 New GLDAB by Arduino Pro mini (My website)
 
 http://kakutaclinic.life.coocan.jp/GLDABArd.html
-
-
-How New GLDAB by Arduino Pro mini works
-
-YouTube Video https://www.youtube.com/watch?v=KpQxz6biprs
 
 
 
