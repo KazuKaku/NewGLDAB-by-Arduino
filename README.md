@@ -95,6 +95,18 @@ How New GLDAb by Arduino works
 ------If the above acts, GLDAB acts normally.
 
 
+## My YouTube channel 
+ Various ServoFlapOrnithopters have been uploaded.
+(https://www.youtube.com/@BZH07614)
+
+## My Website of ornithopter
+ (http://kakutaclinic.life.coocan.jp/HabatakE.htm)
+
+## Request site for production of Kazu Ornithpter
+(http://kakutaclinic.life.coocan.jp/KOrniSSt.html)
+ 
+
+
 
 
 
