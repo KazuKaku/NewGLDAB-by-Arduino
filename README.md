@@ -44,7 +44,7 @@ Arduino pro mini board
 
 Panasonic Hall Sensor IC DN6852-A 
 
-#### -------- (If you use Panasonic Hall Sensor IC DN6851, Change "val == 1" to "val == 0" in Line 103.)
+#### -------- (If you use Panasonic Hall Sensor IC DN6851, Change "val == 0" to "val == 1" in Line 103.)
 
 Small neodymium magnet
 
